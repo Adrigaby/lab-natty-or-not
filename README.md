@@ -12,10 +12,10 @@ Notion
 ## 🧐Processo de Criação:
 Utilizei o exemplo do Professor Felipe, percorri o passo a passo para criar este podcast
 
-## 🚀Resultados
+## 🚀Resultados:
 
 
-## 💭 Reflexão :
+## 💭 Reflexão:
 Foi muito divertido e prazeiroso trabalhar com essas ferramentas.
 
 
