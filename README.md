@@ -1,4 +1,3 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 Projeto Dio
 
 Podcast: "Da Ficção Científica à Realidade: Explorando a IA"
