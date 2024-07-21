@@ -8,6 +8,7 @@ Podcast descontraido sobre Inteligência Artificial
 - Elevenlabs 
 - Capcut 
 - Notion
+- Leonardo AI
     
 ## 🧐Processo de Criação:
 Utilizei o exemplo do Professor Felipe, percorri o passo a passo para criar este podcast
