@@ -14,7 +14,7 @@ Notion
 🧐Processo de Criação:
 Utilizei o exemplo do Professor Felipe, percorri o passo a passo para criar este podcast
 
-Resultados
+🚀Resultados
 
 
 💭 Reflexão :
